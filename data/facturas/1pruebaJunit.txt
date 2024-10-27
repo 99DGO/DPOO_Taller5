@@ -1,0 +1,7 @@
+Cliente: Pepito Perez
+Dirección: Carerra 99 #999
+----------------
+----------------
+Precio Neto:  0
+IVA:          0
+Precio Total: 0

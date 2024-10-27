@@ -1,0 +1,12 @@
+Cliente: Pepito Perez
+Dirección: Carerra 99 #999
+----------------
+Combo Hamburguesa y papas
+ Descuento: 0.1
+            22500
+Hamburguesa
+            20000
+----------------
+Precio Neto:  42500
+IVA:          8075
+Precio Total: 50575
